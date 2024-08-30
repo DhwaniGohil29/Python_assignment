@@ -1,0 +1,22 @@
+CSV file downloaded and saved as titanic.csv
+Total Passengers: 702
+
+Survived Passengers: 284
+
+Survival Rate: 0.4045584045584046
+
+Average Age: 29.562920227920227
+
+Maximum Fare: 263.0
+
+Average Fare: 32.87022136752137
+
+Male Passengers: 444
+
+Female Passengers: 258
+
+Average Age (Male): 30.63551801801802
+
+Average Age (Female): 27.717054263565892
+
+Data successfully uploaded to Google Sheets.

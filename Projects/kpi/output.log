@@ -1,0 +1,91 @@
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:32: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:33: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, 'KPI Dashboard', ln=True, align='C')
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:37: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:38: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, title, ln=True)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:42: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', '', 10)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:32: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:33: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, 'KPI Dashboard', ln=True, align='C')
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:37: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:38: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, title, ln=True)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:42: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', '', 10)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:32: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:33: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, 'KPI Dashboard', ln=True, align='C')
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:37: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:38: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, title, ln=True)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:42: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', '', 10)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:32: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:33: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, 'KPI Dashboard', ln=True, align='C')
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:37: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:38: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, title, ln=True)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:42: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', '', 10)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:32: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:33: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, 'KPI Dashboard', ln=True, align='C')
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:37: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:38: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, title, ln=True)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:42: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', '', 10)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:32: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:33: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, 'KPI Dashboard', ln=True, align='C')
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:37: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:38: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, title, ln=True)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:42: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', '', 10)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:32: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:33: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, 'KPI Dashboard', ln=True, align='C')
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:37: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:38: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, title, ln=True)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:42: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', '', 10)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:32: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:33: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, 'KPI Dashboard', ln=True, align='C')
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:37: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:38: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, title, ln=True)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:42: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', '', 10)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:32: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:33: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, 'KPI Dashboard', ln=True, align='C')
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:37: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', 'B', 12)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:38: DeprecationWarning: The parameter "ln" is deprecated since v2.5.2. Instead of ln=True use new_x=XPos.LMARGIN, new_y=YPos.NEXT.
+  self.cell(0, 10, title, ln=True)
+D:\Dhwani Gohil\Projects\kpi\kpi_dashboard.py:42: DeprecationWarning: Substituting font arial by core font helvetica - This is deprecated since v2.7.8, and will soon be removed
+  self.set_font('Arial', '', 10)
+KPI dashboard with visuals and calculations has been created and saved as 'output\2024_08_30\kpi_dashboard.pdf'.
